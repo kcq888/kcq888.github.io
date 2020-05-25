@@ -1,2 +1,2 @@
 # kcq888.github.io
-A person github pages
+A personal github pages
